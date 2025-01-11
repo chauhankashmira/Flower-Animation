@@ -2,8 +2,6 @@
 <p>Kash Chauhan</p>
 
 
-# Flower Animation in JavaScript
-
 This project showcases a beautiful flower animation created using JavaScript, HTML, and CSS. The animation dynamically generates flower petals and animates their growth and movement, resulting in a visually captivating display.
 
 ## Features

@@ -10,14 +10,11 @@ This project showcases a beautiful flower animation created using JavaScript, HT
 - Configurable options for colors, sizes, and animation speed.
 - Lightweight and runs in the browser with no external dependencies.
 
-## Preview
-![Flower Animation Preview](path/to/preview-image.png)
-
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flower-animation-js.git
+   git clone https://github.com/chauhankashmira/flower-animation-js.git
    cd flower-animation-js
    ```
 
